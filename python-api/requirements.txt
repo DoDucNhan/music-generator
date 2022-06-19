@@ -1,0 +1,6 @@
+Flask-RESTful
+flask-cors
+tensorflow
+pandas
+Flask
+numpy 
