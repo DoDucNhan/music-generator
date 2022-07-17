@@ -1,6 +1,8 @@
 # Music Generator
 This is a project for Microsoft Hackathon. It can generate music notes from a sequence of the input midi file using Tensorflow deep learning model. 
 
+Sample output midi file is [here](https://drive.google.com/file/d/1aqx1Je8cSnFwTvafKP6v99OR53gjj70F/view?usp=sharing).
+
 ## Setups
 1. Clone the repository:
 ```
