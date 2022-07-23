@@ -8,7 +8,9 @@ import requests
 import json
 
 
-BASE = "https://run-model.azurewebsites.net"
+# BASE = "https://run-model.azurewebsites.net"
+BASE = "https://note-prediction.herokuapp.com/"
+
 # midi file
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--input", required=True, help="path to input midi file")
