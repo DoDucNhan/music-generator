@@ -3,6 +3,9 @@ This is a project for Microsoft Hackathon. It can generate music notes from a se
 
 Sample output midi file is [here](https://drive.google.com/file/d/1aqx1Je8cSnFwTvafKP6v99OR53gjj70F/view?usp=sharing).
 
+## Update
+Since my free trial subscription of Azure is expired, I deploy my new [flask API](https://github.com/DoDucNhan/model-deployment.git) to Heroku.
+
 ## Setups
 1. Clone the repository:
 ```
